@@ -1,0 +1,31 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : PCB Document [Shot-Clock-Remote.PcbDoc]
+   Generated File[Shot-Clock-Remote_Copper_Signal_Top.gbr]
+   Generated File[Shot-Clock-Remote_Copper_Signal_Bot.gbr]
+   Generated File[Shot-Clock-Remote_Pads_Bot.gbr]
+   Generated File[Shot-Clock-Remote_Pads_Top.gbr]
+   Generated File[Shot-Clock-Remote_Paste_Top.gbr]
+   Generated File[Shot-Clock-Remote_Soldermask_Bot.gbr]
+   Generated File[Shot-Clock-Remote_Soldermask_Top.gbr]
+   Generated File[Shot-Clock-Remote_Legend_Top.gbr]
+   Generated File[Shot-Clock-Remote_Keep-out.gbr]
+   Generated File[Shot-Clock-Remote_Mechanical_15.gbr]
+   Generated File[Shot-Clock-Remote_Mechanical_16.gbr]
+   Generated File[Shot-Clock-Remote_Mechanical_13.gbr]
+   Generated File[Shot-Clock-Remote_Mechanical_1.gbr]
+   Generated File[Shot-Clock-Remote_Mechanical_20.gbr]
+   Generated File[Shot-Clock-Remote_Mechanical_14.gbr]
+   Generated File[Shot-Clock-Remote_Profile.gbr]
+   Generated File[Shot-Clock-Remote_PTH_Drill.gbr]
+   Generated File[Shot-Clock-Remote_Drawing_1.gbr]
+   Generated File[Shot-Clock-Remote_Drillmap_1.gbr]
+   Generated File[Shot-Clock-Remote.RUL]
+   Generated File[Shot-Clock-Remote.EXTREP]
+   Generated File[Shot-Clock-Remote.REP]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 8:53:52 AM On 9/1/2023

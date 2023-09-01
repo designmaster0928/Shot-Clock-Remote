@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+F:\TASK\2023\8\Shot-Clock-Remote\ShotClockRemote\Project Outputs for ShotClockRemote\Pick Place\Pick Place for Shot-Clock-Remote.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/09/23
+Time:       08:53
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"J3","615006143421","TopLayer","615006143421","20.2270","-2.8400","180","Modular Connectors / Ethernet Connectors WR-COM Modular Jack Horztl 1.5A"
+"U1","ESP32-C6-MINI-1","TopLayer","XCVR_ESP32-C6-MINI-1","20.2270","-95.3000","180","Bluetooth, WiFi 802.11b/g/n, Bluetooth v5.0 Transceiver Module 2.412GHz ~ 2.484GHz PCB Trace Surface Mount"
+"S3","PB6B2RS2M3CAL00","TopLayer","PB6B2RS2M3CAL00","20.2270","-76.0000","0","Pushbutton Switch SPST-NO Standard Panel Mount, Front"
+"S2","PB6B2RS2M3CAL00","TopLayer","PB6B2RS2M3CAL00","20.2270","-57.0000","0","Pushbutton Switch SPST-NO Standard Panel Mount, Front"
+"S1","150011E","TopLayer","150011E","20.2268","-28.0000","0","SPDT Subminiature Toggle Switch, Right Angle Mounting, Vertical Actuation"
+"R1","10K","TopLayer","RES-0603","30.4000","-92.9620","90","10 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"J7","PROG","TopLayer","HEADER1X6","5.3000","-90.7000","270","Connector Header Through Hole 6 position 0.100" (2.54mm)"
+"J2","BT-","TopLayer","BT_PAD","9.0000","-65.0000","0","NO FIT"
+"J1","BT+","TopLayer","BT_PAD","32.0000","-65.0000","0","NO FIT"
+"C4","1uF/16V","TopLayer","CAP-0603","32.8000","-92.9620","270","1 µF ±10% 25V Ceramic Capacitor X5R 0603 (1608 Metric)"
+"C1","0.1uF/50V","TopLayer","CAP-0603","30.4000","-96.9380","270","Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 100nF X7R 0603 10%"
