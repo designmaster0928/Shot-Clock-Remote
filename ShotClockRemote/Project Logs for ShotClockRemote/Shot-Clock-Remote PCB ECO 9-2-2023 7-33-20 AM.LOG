@@ -1,0 +1,24 @@
+Added Component: Designator=LED1(LED3MM_GREEN)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Opto Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TLVG4200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.47"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "TLVG4200-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TLVG4200"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED3MM_YELLOW)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Opto Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TLHY4400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "TLHY4400-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TLHY4400"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED3MM_RED)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Opto Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TLHR4400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "751-1127-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TLHR4400"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Shot-Clock-Remote Member=Component LED1 TLVG4200
+Added Member To Class: ClassName=Shot-Clock-Remote Member=Component LED2 TLHY4400
+Added Member To Class: ClassName=Shot-Clock-Remote Member=Component LED3 TLHR4400

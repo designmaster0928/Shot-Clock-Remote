@@ -97,128 +97,115 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
-DocumentPath=Shot-Clock-Remote.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EIMTOYKD
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ShotClockRemote\BOM\Bill of Materials-ShotClockRemote.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for ShotClockRemote\Pick Place\Pick Place for Shot-Clock-Remote.csv
+DocumentPath=Project Outputs for ShotClockRemote\Design Rule Check - Shot-Clock-Remote.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for ShotClockRemote\Pick Place\Pick Place for Shot-Clock-Remote.txt
+DocumentPath=Project Outputs for ShotClockRemote\Pick Place\Pick Place for Shot-Clock-Remote.csv
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote.EXTREP
+DocumentPath=Project Outputs for ShotClockRemote\Pick Place\Pick Place for Shot-Clock-Remote.txt
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote.REP
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote.RUL
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote.REP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for ShotClockRemote\ExportSTEP\Shot-Clock-Remote.step
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for ShotClockRemote\Report Board Stack\Shot-Clock-Remote.xls
+DocumentPath=Project Outputs for ShotClockRemote\ExportSTEP\Shot-Clock-Remote.step
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for ShotClockRemote\Report Board Stack\Shot-Clock-Remote.xls
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Drawing_1.gbr
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Drillmap_1.gbr
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Keep-out.gbr
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Legend_Top.gbr
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Mechanical_1.gbr
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Mechanical_13.gbr
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Mechanical_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Mechanical_14.gbr
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Mechanical_13.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Mechanical_15.gbr
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Mechanical_14.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Mechanical_16.gbr
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Mechanical_15.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Mechanical_20.gbr
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Mechanical_16.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Pads_Bot.gbr
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Mechanical_20.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Pads_Top.gbr
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Paste_Top.gbr
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Profile.gbr
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_PTH_Drill.gbr
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument27]
+DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument28]
 DocumentPath=Project Outputs for ShotClockRemote\GerberX2\Shot-Clock-Remote_Soldermask_Top.gbr
 DItemRevisionGUID=
 
